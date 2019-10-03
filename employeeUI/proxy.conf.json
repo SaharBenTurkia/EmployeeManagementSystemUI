@@ -1,0 +1,7 @@
+{
+    "/employeeapi": {
+      "target": "http://localhost:8182",
+      "changeOrigin": true,
+      "secure": false
+    }
+  }
